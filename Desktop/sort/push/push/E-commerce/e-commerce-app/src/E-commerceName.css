@@ -1,0 +1,14 @@
+.name {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.name h2 {
+    margin: 0 0 10px;
+}
+
+.name p {
+    margin: 0;
+}
