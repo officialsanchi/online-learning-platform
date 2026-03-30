@@ -52,7 +52,7 @@ public class User {
 
     @Column(nullable = false)
     @Builder.Default
-    private Boolean enabled = false; // Email verification required
+    private Boolean enabled = false;
 
     @Column(nullable = false)
     @Builder.Default
